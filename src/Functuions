@@ -1,0 +1,16 @@
+<?php
+function add($name) {// single parameter $name
+    echo "$name <br/>";
+    }
+
+    add("juha");
+      add("Timo");
+
+      function add1($name, $address) {//two paramenters
+      echo "Name:$name Addtress:$address <br/>";
+
+            }
+            add1("deepak", "Kajani");
+            add1("Juha", "Tonioi");
+
+            ?>
